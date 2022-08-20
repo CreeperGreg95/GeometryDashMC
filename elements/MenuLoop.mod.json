@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disk1",
+    "name": "Menu Loop",
+    "description": "menuLoop",
+    "creativeTab": {
+      "value": "CUSTOM:GDMusics"
+    },
+    "music": {
+      "value": "CUSTOM:menuloop"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

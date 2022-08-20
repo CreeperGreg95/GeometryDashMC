@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disk1",
+    "name": "Blast Processing",
+    "description": "Blast Processing",
+    "creativeTab": {
+      "value": "CUSTOM:GDMusics"
+    },
+    "music": {
+      "value": "CUSTOM:blastprocessing"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

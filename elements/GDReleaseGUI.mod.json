@@ -1,0 +1,134 @@
+{
+  "_fv": 28,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 310,
+    "height": 205,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "logogdlong.png",
+          "use1Xscale": true,
+          "name": "logogdlong.png",
+          "x": 64,
+          "y": 23
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "by : RobTop Games",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "by : RobTop Games",
+          "x": 162,
+          "y": 60
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Version actuelle : 2.113 (en attente de la 2.2 depuis 4 ans)",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Version actuelle : 2.113 (en attente de la 2.2 depuis 4 ans)",
+          "x": 59,
+          "y": 78
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "_______________________________________________",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "_______________________________________________",
+          "x": 97,
+          "y": 91
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "About this mod :",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "About this mod :",
+          "x": 158,
+          "y": 104
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Mod Version : 0.0.3 (1.0.0 beta 3)",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Mod Version : 0.0.3 (1.0.0 beta 3)",
+          "x": 109,
+          "y": 119
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Date : 03/08/2022 | 17h05 (Wednesday, August 3rd)",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Date : 03/08/2022 | 17h05 (Wednesday, August 3rd)",
+          "x": 88,
+          "y": 135
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Exit (don't work now)",
+          "width": 46,
+          "height": 20,
+          "name": "Exit (don't work now)",
+          "x": 182,
+          "y": 178
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Push the \"Echap\" button in your keyboard to exit too",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Push the \"Echap\" button in your keyboard to exit too",
+          "x": 82,
+          "y": 202
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

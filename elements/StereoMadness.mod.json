@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disk1",
+    "name": "Stereo Madness",
+    "description": "Stereo Madness",
+    "creativeTab": {
+      "value": "CUSTOM:GDMusics"
+    },
+    "music": {
+      "value": "CUSTOM:stereomadness"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disk1",
+    "name": "Time Machine",
+    "description": "Time Machine",
+    "creativeTab": {
+      "value": "CUSTOM:GDMusics"
+    },
+    "music": {
+      "value": "CUSTOM:timemachine"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

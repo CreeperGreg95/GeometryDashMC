@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disk1",
+    "name": "Jumper",
+    "description": "Jumper",
+    "creativeTab": {
+      "value": "CUSTOM:GDMusics"
+    },
+    "music": {
+      "value": "CUSTOM:jumper"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

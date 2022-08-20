@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disk1",
+    "name": "Fingerdash",
+    "description": "Fingerdash",
+    "creativeTab": {
+      "value": "CUSTOM:GDMusics"
+    },
+    "music": {
+      "value": "CUSTOM:fingerdash"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

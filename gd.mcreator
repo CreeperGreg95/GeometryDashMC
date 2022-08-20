@@ -1,0 +1,1581 @@
+{
+  "mod_elements": [
+    {
+      "name": "GDMusics",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gd_musics",
+      "path": "~/Creative Tabs"
+    },
+    {
+      "name": "GDLogo",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gd_logo",
+      "path": "~/Items"
+    },
+    {
+      "name": "StereoMadness",
+      "type": "musicdisc",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stereo_madness",
+      "path": "~/Musics/Geometry Dash"
+    },
+    {
+      "name": "BackOnTrack",
+      "type": "musicdisc",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "back_on_track",
+      "path": "~/Musics/Geometry Dash"
+    },
+    {
+      "name": "Polargeist",
+      "type": "musicdisc",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polargeist",
+      "path": "~/Musics/Geometry Dash"
+    },
+    {
+      "name": "DryOut",
+      "type": "musicdisc",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dry_out",
+      "path": "~/Musics/Geometry Dash"
+    },
+    {
+      "name": "BaseAfterBase",
+      "type": "musicdisc",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "base_after_base",
+      "path": "~/Musics/Geometry Dash"
+    },
+    {
+      "name": "CantLetGo",
+      "type": "musicdisc",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cant_let_go",
+      "path": "~/Musics/Geometry Dash"
+    },
+    {
+      "name": "TimeMachine",
+      "type": "musicdisc",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "time_machine",
+      "path": "~/Musics/Geometry Dash"
+    },
+    {
+      "name": "Cycles",
+      "type": "musicdisc",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cycles",
+      "path": "~/Musics/Geometry Dash"
+    },
+    {
+      "name": "XStep",
+      "type": "musicdisc",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "x_step",
+      "path": "~/Musics/Geometry Dash"
+    },
+    {
+      "name": "GDLogoLongGUI",
+      "type": "gui",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gd_logo_long_gui",
+      "path": "~/GUIs"
+    },
+    {
+      "name": "GDItems",
+      "type": "tab",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gd_items",
+      "path": "~/Creative Tabs"
+    },
+    {
+      "name": "StartGD",
+      "type": "achievement",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "start_gd",
+      "path": "~/Achievements/Games/Start"
+    },
+    {
+      "name": "StereoBump",
+      "type": "achievement",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stereo_bump",
+      "path": "~/Achievements/StereoMadness"
+    },
+    {
+      "name": "StereoPraticeItem",
+      "type": "item",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stereo_pratice_item",
+      "path": "~/Items/Trophies/StereoMadness"
+    },
+    {
+      "name": "GDTrophies",
+      "type": "tab",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gd_trophies",
+      "path": "~/Creative Tabs"
+    },
+    {
+      "name": "Jumper",
+      "type": "musicdisc",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jumper",
+      "path": "~/Musics/Geometry Dash"
+    },
+    {
+      "name": "StereoNormalItem",
+      "type": "item",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stereo_normal_item",
+      "path": "~/Items/Trophies/StereoMadness"
+    },
+    {
+      "name": "StereoMadness1",
+      "type": "achievement",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stereo_madness_1",
+      "path": "~/Achievements/StereoMadness"
+    },
+    {
+      "name": "SecretCoin",
+      "type": "item",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "secret_coin",
+      "path": "~/Items"
+    },
+    {
+      "name": "GDIconKitCubes",
+      "type": "tab",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gd_icon_kit_cubes",
+      "path": "~/Creative Tabs/GDIconKit"
+    },
+    {
+      "name": "BackPracticeItem",
+      "type": "item",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "back_practice_item",
+      "path": "~/Items/Trophies/BackOnTrack"
+    },
+    {
+      "name": "BackNormalItem",
+      "type": "item",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "back_normal_item",
+      "path": "~/Items/Trophies/BackOnTrack"
+    },
+    {
+      "name": "Onmyway",
+      "type": "achievement",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "onmyway",
+      "path": "~/Achievements/BackOnTrack"
+    },
+    {
+      "name": "BackOnTrack1",
+      "type": "achievement",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "back_on_track_1",
+      "path": "~/Achievements/BackOnTrack"
+    },
+    {
+      "name": "PolargeistPracticeItem",
+      "type": "item",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polargeist_practice_item",
+      "path": "~/Items/Trophies/Polargeist"
+    },
+    {
+      "name": "PolargeistNormalItem",
+      "type": "item",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polargeist_normal_item",
+      "path": "~/Items/Trophies/Polargeist"
+    },
+    {
+      "name": "Polarbear",
+      "type": "achievement",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polarbear",
+      "path": "~/Achievements/Polargeist"
+    },
+    {
+      "name": "Polargeist1",
+      "type": "achievement",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polargeist_1",
+      "path": "~/Achievements/Polargeist"
+    },
+    {
+      "name": "Oh",
+      "type": "achievement",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oh",
+      "path": "~/Achievements/Coins"
+    },
+    {
+      "name": "Coins",
+      "type": "achievement",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coins",
+      "path": "~/Achievements/Coins"
+    },
+    {
+      "name": "GDReleaseGUI",
+      "type": "gui",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gd_release_gui",
+      "path": "~/GUIs"
+    },
+    {
+      "name": "About",
+      "type": "item",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "about",
+      "path": "~/Items"
+    },
+    {
+      "name": "Maybebehingthatblock",
+      "type": "achievement",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maybebehingthatblock",
+      "path": "~/Achievements/Coins"
+    },
+    {
+      "name": "INeedMore",
+      "type": "achievement",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "i_need_more",
+      "path": "~/Achievements/Coins"
+    },
+    {
+      "name": "WeWantsIt",
+      "type": "achievement",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "we_wants_it",
+      "path": "~/Achievements/Coins"
+    },
+    {
+      "name": "DryPracticeMode",
+      "type": "item",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dry_practice_mode",
+      "path": "~/Items/Trophies/DryOut"
+    },
+    {
+      "name": "DryNormalMode",
+      "type": "item",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dry_normal_mode",
+      "path": "~/Items/Trophies/DryOut"
+    },
+    {
+      "name": "BasePracticeMode",
+      "type": "item",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "base_practice_mode",
+      "path": "~/Items/Trophies/BaseAfterBase"
+    },
+    {
+      "name": "BaseNormalMode",
+      "type": "item",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "base_normal_mode",
+      "path": "~/Items/Trophies/BaseAfterBase"
+    },
+    {
+      "name": "CantPracticeItem",
+      "type": "item",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cant_practice_item",
+      "path": "~/Items/Trophies/Cant Let Go"
+    },
+    {
+      "name": "CantNormalItem",
+      "type": "item",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cant_normal_item",
+      "path": "~/Items/Trophies/Cant Let Go"
+    },
+    {
+      "name": "Easy",
+      "type": "item",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "easy",
+      "path": "~/Items/Difficulty"
+    },
+    {
+      "name": "Normal",
+      "type": "item",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "normal",
+      "path": "~/Items/Difficulty"
+    },
+    {
+      "name": "GDDifficulties",
+      "type": "tab",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gd_difficulties",
+      "path": "~/Creative Tabs"
+    },
+    {
+      "name": "Hard",
+      "type": "item",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hard",
+      "path": "~/Items/Difficulty"
+    },
+    {
+      "name": "Harder",
+      "type": "item",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "harder",
+      "path": "~/Items/Difficulty"
+    },
+    {
+      "name": "Insane",
+      "type": "item",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "insane",
+      "path": "~/Items/Difficulty"
+    },
+    {
+      "name": "EasyDemon",
+      "type": "item",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "easy_demon",
+      "path": "~/Items/Difficulty"
+    },
+    {
+      "name": "HardDemon",
+      "type": "item",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hard_demon",
+      "path": "~/Items/Difficulty"
+    },
+    {
+      "name": "InsaneDemon",
+      "type": "item",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "insane_demon",
+      "path": "~/Items/Difficulty"
+    },
+    {
+      "name": "WeNeedsIt",
+      "type": "achievement",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "we_needs_it",
+      "path": "~/Achievements/Coins"
+    },
+    {
+      "name": "MustHaveThePrecious",
+      "type": "achievement",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "must_have_the_precious",
+      "path": "~/Achievements/Coins"
+    },
+    {
+      "name": "TheyStoleItFromUs",
+      "type": "achievement",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "they_stole_it_from_us",
+      "path": "~/Achievements/Coins"
+    },
+    {
+      "name": "WhereIsItWhereIsIt",
+      "type": "achievement",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "where_is_it_where_is_it",
+      "path": "~/Achievements/Coins"
+    },
+    {
+      "name": "MenuLoop",
+      "type": "musicdisc",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "menu_loop",
+      "path": "~/Musics/Games"
+    },
+    {
+      "name": "HeyQuandUneCommandeEstExecutee",
+      "type": "procedure",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hey_quand_une_commande_est_executee",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Commands/Test"
+    },
+    {
+      "name": "Hey",
+      "type": "command",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hey",
+      "path": "~/Commands/Test"
+    },
+    {
+      "name": "ThiefThiefThief",
+      "type": "achievement",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thief_thief_thief",
+      "path": "~/Achievements/Coins"
+    },
+    {
+      "name": "MyPrecious",
+      "type": "achievement",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "my_precious",
+      "path": "~/Achievements/Coins"
+    },
+    {
+      "name": "TheresMore",
+      "type": "achievement",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "theres_more",
+      "path": "~/Achievements/Coins"
+    },
+    {
+      "name": "FoundItUnderARock",
+      "type": "achievement",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "found_it_under_a_rock",
+      "path": "~/Achievements/Coins"
+    },
+    {
+      "name": "NotSoSecret",
+      "type": "achievement",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "not_so_secret",
+      "path": "~/Achievements/Coins"
+    },
+    {
+      "name": "NothingIsSecret",
+      "type": "achievement",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nothing_is_secret",
+      "path": "~/Achievements/Coins"
+    },
+    {
+      "name": "FindersKeepers",
+      "type": "achievement",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "finders_keepers",
+      "path": "~/Achievements/Coins"
+    },
+    {
+      "name": "TheGoldenRule",
+      "type": "achievement",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "the_golden_rule",
+      "path": "~/Achievements/Coins"
+    },
+    {
+      "name": "RobinHood",
+      "type": "achievement",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "robin_hood",
+      "path": "~/Achievements/Coins"
+    },
+    {
+      "name": "TheFinder",
+      "type": "achievement",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "the_finder",
+      "path": "~/Achievements/Coins"
+    },
+    {
+      "name": "TaxCollector",
+      "type": "achievement",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tax_collector",
+      "path": "~/Achievements/Coins"
+    },
+    {
+      "name": "TheKingsVault",
+      "type": "achievement",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "the_kings_vault",
+      "path": "~/Achievements/Coins"
+    },
+    {
+      "name": "GDAchievementCoinsBugGUI",
+      "type": "gui",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gd_achievement_coins_bug_gui",
+      "path": "~/GUIs"
+    },
+    {
+      "name": "WhyAchivementCoinsAreBuggy",
+      "type": "item",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "why_achivement_coins_are_buggy",
+      "path": "~/Items"
+    },
+    {
+      "name": "Clutterfunk",
+      "type": "musicdisc",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "clutterfunk",
+      "path": "~/Musics/Geometry Dash"
+    },
+    {
+      "name": "TheoryOfEverything",
+      "type": "musicdisc",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "theory_of_everything",
+      "path": "~/Musics/Geometry Dash"
+    },
+    {
+      "name": "ElectromanAdventures",
+      "type": "musicdisc",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "electroman_adventures",
+      "path": "~/Musics/Geometry Dash"
+    },
+    {
+      "name": "Clubstep",
+      "type": "musicdisc",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "clubstep",
+      "path": "~/Musics/Geometry Dash"
+    },
+    {
+      "name": "Electrodynamix",
+      "type": "musicdisc",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "electrodynamix",
+      "path": "~/Musics/Geometry Dash"
+    },
+    {
+      "name": "HexagonForce",
+      "type": "musicdisc",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hexagon_force",
+      "path": "~/Musics/Geometry Dash"
+    },
+    {
+      "name": "BlastProcessing",
+      "type": "musicdisc",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blast_processing",
+      "path": "~/Musics/Geometry Dash"
+    },
+    {
+      "name": "TheoryOfEverything2",
+      "type": "musicdisc",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "theory_of_everything_2",
+      "path": "~/Musics/Geometry Dash"
+    },
+    {
+      "name": "GeometricalDominator",
+      "type": "musicdisc",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "geometrical_dominator",
+      "path": "~/Musics/Geometry Dash"
+    },
+    {
+      "name": "Deadlocked",
+      "type": "musicdisc",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deadlocked",
+      "path": "~/Musics/Geometry Dash"
+    },
+    {
+      "name": "Fingerdash",
+      "type": "musicdisc",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fingerdash",
+      "path": "~/Musics/Geometry Dash"
+    },
+    {
+      "name": "TheseArePrettyHeavy",
+      "type": "achievement",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "these_are_pretty_heavy",
+      "path": "~/Achievements/Coins"
+    },
+    {
+      "name": "WhereDoIEvenPutThis",
+      "type": "achievement",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "where_do_i_even_put_this",
+      "path": "~/Achievements/Coins"
+    },
+    {
+      "name": "SeriouslyEnough",
+      "type": "achievement",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "seriously_enough",
+      "path": "~/Achievements/Coins"
+    },
+    {
+      "name": "LeaveSomeForTheRestOfUs",
+      "type": "achievement",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "leave_some_for_the_rest_of_us",
+      "path": "~/Achievements/Coins"
+    },
+    {
+      "name": "InsatiableGreed",
+      "type": "achievement",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "insatiable_greed",
+      "path": "~/Achievements/Coins"
+    },
+    {
+      "name": "GDUltimateDemonLevels",
+      "type": "tab",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gd_ultimate_demon_levels",
+      "path": "~/Creative Tabs"
+    },
+    {
+      "name": "UltiStep",
+      "type": "item",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ulti_step",
+      "path": "~/Items/Ultimate Demon Levels Item"
+    },
+    {
+      "name": "UltiOfEverything2",
+      "type": "item",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ulti_of_everything_2",
+      "path": "~/Items/Ultimate Demon Levels Item"
+    },
+    {
+      "name": "UltiLocked",
+      "type": "item",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ulti_locked",
+      "path": "~/Items/Ultimate Demon Levels Item"
+    },
+    {
+      "name": "UltimateClubstep",
+      "type": "achievement",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ultimate_clubstep",
+      "path": "~/Achievements/Ultimate Demon Levels"
+    },
+    {
+      "name": "UltimateTOE2",
+      "type": "achievement",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ultimate_toe_2",
+      "path": "~/Achievements/Ultimate Demon Levels"
+    },
+    {
+      "name": "UltimateDeadlocked",
+      "type": "achievement",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ultimate_deadlocked",
+      "path": "~/Achievements/Ultimate Demon Levels"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "stereomadness",
+      "files": [
+        "stereomadness"
+      ],
+      "category": "music",
+      "subtitle": "Stereo Madness"
+    },
+    {
+      "name": "backontrack",
+      "files": [
+        "backontrack"
+      ],
+      "category": "music",
+      "subtitle": "Back On Track"
+    },
+    {
+      "name": "polargeist",
+      "files": [
+        "polargeist"
+      ],
+      "category": "music",
+      "subtitle": "Polargeist"
+    },
+    {
+      "name": "dryout",
+      "files": [
+        "dryout"
+      ],
+      "category": "music",
+      "subtitle": "Dry Out"
+    },
+    {
+      "name": "baseafterbase",
+      "files": [
+        "baseafterbase"
+      ],
+      "category": "music",
+      "subtitle": "Base After Base"
+    },
+    {
+      "name": "cantletgo",
+      "files": [
+        "cantletgo"
+      ],
+      "category": "music",
+      "subtitle": "Can\u0027t Let Go"
+    },
+    {
+      "name": "timemachine",
+      "files": [
+        "timemachine"
+      ],
+      "category": "music",
+      "subtitle": "Time Machine"
+    },
+    {
+      "name": "cycles",
+      "files": [
+        "cycles"
+      ],
+      "category": "music",
+      "subtitle": "Cycles"
+    },
+    {
+      "name": "xstep",
+      "files": [
+        "xstep"
+      ],
+      "category": "music",
+      "subtitle": "xStep"
+    },
+    {
+      "name": "jumper",
+      "files": [
+        "jumper"
+      ],
+      "category": "music",
+      "subtitle": "Jumper"
+    },
+    {
+      "name": "achivement_unlocked",
+      "files": [
+        "achievement_01"
+      ],
+      "category": "music",
+      "subtitle": "Achivement Unlocked !"
+    },
+    {
+      "name": "menuloop",
+      "files": [
+        "menuloop"
+      ],
+      "category": "music",
+      "subtitle": "MenuLoop"
+    },
+    {
+      "name": "clutterfunk",
+      "files": [
+        "clutterfunk"
+      ],
+      "category": "music",
+      "subtitle": "Clutterfunk"
+    },
+    {
+      "name": "theoryofeverything",
+      "files": [
+        "theoryofeverything"
+      ],
+      "category": "music",
+      "subtitle": "Theory Of Everything"
+    },
+    {
+      "name": "electrodynamix",
+      "files": [
+        "electrodynamix"
+      ],
+      "category": "music",
+      "subtitle": "Electrodynamix"
+    },
+    {
+      "name": "hexagonforce",
+      "files": [
+        "hexagonforce"
+      ],
+      "category": "music",
+      "subtitle": "Hexagon Force"
+    },
+    {
+      "name": "blastprocessing",
+      "files": [
+        "blastprocessing"
+      ],
+      "category": "music",
+      "subtitle": "Blast Processing"
+    },
+    {
+      "name": "theoryofeverything2",
+      "files": [
+        "theoryofeverything2"
+      ],
+      "category": "music",
+      "subtitle": "Theory Of Everything 2"
+    },
+    {
+      "name": "geometricaldominator",
+      "files": [
+        "geometricaldominator"
+      ],
+      "category": "music",
+      "subtitle": "Geometrical Dominator"
+    },
+    {
+      "name": "deadlocked",
+      "files": [
+        "deadlocked"
+      ],
+      "category": "music",
+      "subtitle": "Deadlocked"
+    },
+    {
+      "name": "fingerdash",
+      "files": [
+        "fingerdash"
+      ],
+      "category": "music",
+      "subtitle": "Fingerdash"
+    },
+    {
+      "name": "electromanadventures",
+      "files": [
+        "electroman"
+      ],
+      "category": "music",
+      "subtitle": "Electroman Adventures"
+    },
+    {
+      "name": "clubstep",
+      "files": [
+        "clubstep"
+      ],
+      "category": "music",
+      "subtitle": "Clubstep"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "subtitles.theoryofeverything2": "Theory Of Everything 2",
+      "advancements.theres_more.descr": "Collect 55 Secret Coins",
+      "item.gd.electrodynamix": "Electrodynamix",
+      "advancements.seriously_enough.descr": "Collect 115 Secret Coins",
+      "advancements.coins.title": "Coins?!",
+      "item.gd.easy_demon": "Easy Demon Difficulty",
+      "subtitles.clubstep": "Clubstep",
+      "advancements.oh.descr": "Collect 1 Secret Coin.",
+      "advancements.these_are_pretty_heavy.descr": "Collect 105 Secret Coins",
+      "advancements.robin_hood.title": "Robin Hood",
+      "item.gd.stereo_pratice_item": "Stereo Madness Practice Mode",
+      "advancements.back_on_track_1.descr": "Complete Back On Track in Normal Mode !",
+      "item.gd.insane": "Insane Difficulty",
+      "advancements.finders_keepers.descr": "Collect 75 Secret Coins",
+      "item.gd.theory_of_everything": "Theory Of Everything",
+      "item.gd.harder": "Harder Difficulty",
+      "item.gd.jumper": "Jumper",
+      "subtitles.electromanadventures": "Electroman Adventures",
+      "advancements.leave_some_for_the_rest_of_us.title": "Leave some for the rest of us !",
+      "item.gd.fingerdash.desc": "Fingerdash",
+      "item.gd.polargeist.desc": "Polargeist",
+      "advancements.onmyway.title": "On my way",
+      "item.gd.time_machine": "Time Machine",
+      "item.gd.back_on_track": "Back On Track",
+      "item.gd.normal": "Normal Difficulty",
+      "item.gd.base_practice_mode": "Base After Base Practice Mode",
+      "item.gd.back_practice_item": "Back On Track Practice Mode",
+      "advancements.the_golden_rule.title": "The Golden Rule",
+      "item.gd.about": "About...",
+      "item.gd.dry_out.desc": "Dry Out",
+      "item.gd.cant_let_go": "Can\u0027t Let Go",
+      "advancements.we_wants_it.descr": "Collect 20 Secret Coins",
+      "advancements.found_it_under_a_rock.descr": "Collect 60 Secret Coins",
+      "advancements.insatiable_greed.descr": "Collect 130 Secret Coins",
+      "item.gd.stereo_normal_item": "Stereo Madness Normal Mode",
+      "subtitles.gd_logo": "Just the logo of Geometry Dash",
+      "item.gd.gd_logo": "Geometry Dash Logo",
+      "advancements.polargeist_1.descr": "Complete Polargeist in Normal Mode !",
+      "item.gd.theory_of_everything.desc": "Theory Of Everything",
+      "advancements.the_finder.descr": "Collect 90 Secreet Coins",
+      "itemGroup.tabgd_items": "Geometry Dash Items",
+      "item.gd.jumper.desc": "Jumper",
+      "advancements.where_do_i_even_put_this.title": "Where do I even put this ?",
+      "advancements.ultimate_deadlocked.descr": "Collect all 3 coins on Deadlocked",
+      "item.gd.hard_demon": "Hard Demon Difficulty",
+      "advancements.ultimate_toe_2.descr": "Collect all 3 coins on Theory Of Everything 2",
+      "item.gd.menu_loop.desc": "menuLoop",
+      "advancements.they_stole_it_from_us.descr": "Collect 35 Secret Coins",
+      "item.gd.cant_let_go.desc": "Can\u0027t Let Go",
+      "advancements.the_kings_vault.descr": "Collect 100 Secret Coins",
+      "advancements.stereo_madness_1.descr": "Complete Stereo Madness in Normal Mode !",
+      "item.gd.back_on_track.desc": "Back On Track",
+      "subtitles.backontrack": "Back On Track",
+      "subtitles.stereomadness": "Stereo Madness",
+      "itemGroup.tabgd_trophies": "GD Trophies",
+      "advancements.thief_thief_thief.descr": "Collect 45 Secret Coins",
+      "subtitles.timemachine": "Time Machine",
+      "item.gd.electroman_adventures": "Electroman Adventures",
+      "item.gd.electrodynamix.desc": "Electrodynamix",
+      "advancements.ultimate_clubstep.descr": "Collect all 3 coins on Clubstep",
+      "item.gd.cant_practice_item": "Can\u0027t Let Go Practice Item",
+      "item.gd.cant_normal_item": "Can\"t Let Go Normal Item",
+      "item.gd.back_normal_item": "Back On Track Normal Mode",
+      "item.gd.x_step": "xStep",
+      "item.gd.clutterfunk.desc": "Clutterfunk",
+      "advancements.polarbear.title": "Polarbear",
+      "item.gd.polargeist_practice_item": "Polargeist Practice Mode",
+      "advancements.ultimate_deadlocked.title": "Ultimate Deadlocked",
+      "advancements.oh.title": "Oh ?!",
+      "subtitles.theoryofeverything": "Theory Of Everything",
+      "advancements.found_it_under_a_rock.title": "Found it under a rock !",
+      "item.gd.geometrical_dominator.desc": "Geometrical Dominator",
+      "advancements.insatiable_greed.title": "Insatiable Greed",
+      "subtitles.baseafterbase": "Base After Base",
+      "advancements.the_golden_rule.descr": "Collect 80 Secret Coins",
+      "item.gd.ulti_of_everything_2": "Ultimate Theory Of Everything 2",
+      "advancements.my_precious.title": "My Precious...",
+      "item.gd.clubstep.desc": "Clubstep",
+      "item.gd.cycles.desc": "Cycles",
+      "advancements.we_needs_it.descr": "Collect 25 Secret Coins",
+      "advancements.tax_collector.title": "Tax Collector",
+      "subtitles.dryout": "Dry Out",
+      "itemGroup.tabgd_musics": "Geometry Dash Musics",
+      "advancements.robin_hood.descr": "Collect 85 Secret Coins",
+      "advancements.theres_more.title": "There\u0027s More !?",
+      "advancements.coins.descr": "Collect 5 Secret Coins.",
+      "advancements.back_on_track_1.title": "Back On Track!",
+      "item.gd.ulti_step": "Ultimate Clubstep",
+      "advancements.seriously_enough.title": "Seriously , enough !",
+      "item.gd.hard": "Hard Difficulty",
+      "item.gd.dry_out": "Dry Out",
+      "subtitles.hexagonforce": "Hexagon Force",
+      "advancements.these_are_pretty_heavy.title": "These are pretty heavy",
+      "advancements.onmyway.descr": "Complete Back On Track in Practice Mode !",
+      "item.gd.easy": "Easy Difficulty",
+      "item.gd.stereo_madness.desc": "Stereo Madness",
+      "advancements.leave_some_for_the_rest_of_us.descr": "Collect 120 Secret Coins",
+      "subtitles.cycles": "Cycles",
+      "item.gd.stereo_madness": "Stereo Madness",
+      "advancements.we_needs_it.title": "We needs it",
+      "subtitles.achivement_unlocked": "Achivement Unlocked !",
+      "item.gd.time_machine.desc": "Time Machine",
+      "advancements.ultimate_clubstep.title": "Ultimate Clubstep",
+      "advancements.tax_collector.descr": "Collect 95 Secret Coins",
+      "subtitles.cantletgo": "Can\u0027t Let Go",
+      "item.gd.blast_processing": "Blast Processing",
+      "subtitles.blastprocessing": "Blast Processing",
+      "advancements.finders_keepers.title": "Finders Keepers !",
+      "advancements.stereo_madness_1.title": "Stereo Madness!",
+      "subtitles.deadlocked": "Deadlocked",
+      "advancements.nothing_is_secret.title": "Nothing is secret !",
+      "advancements.my_precious.descr": "Collect 50 Secret Coins",
+      "advancements.start_gd.descr": "Thanks you for buying and playing Geometry Dash !",
+      "item.gd.hexagon_force": "Hexagon Force",
+      "advancements.not_so_secret.title": "Not so secret",
+      "advancements.where_is_it_where_is_it.title": "Where is it ?! Where is it ?!",
+      "item.gd.theory_of_everything_2.desc": "Theory Of Everything 2",
+      "item.gd.insane_demon": "Insane Demon Difficulty",
+      "subtitles.fingerdash": "Fingerdash",
+      "item.gd.cycles": "Cycles",
+      "item.gd.dry_normal_mode": "Dry Out Normal Mode",
+      "item.gd.ulti_locked": "Ultimate Deadlocked",
+      "advancements.they_stole_it_from_us.title": "They stole it from us !",
+      "itemGroup.tabgd_icon_kit_cubes": "Geometry Dash Icon Kit : Cubes",
+      "advancements.maybebehingthatblock.descr": "Collect 10 Secret Coins",
+      "advancements.stereo_bump.descr": "Complete Stereo Madness in Practice Mode !",
+      "item.gd.polargeist": "Polargeist",
+      "advancements.maybebehingthatblock.title": "Maybe behind that block ?",
+      "advancements.the_finder.title": "The Finder",
+      "advancements.thief_thief_thief.title": "Thief, thief, thief !",
+      "item.gd.hexagon_force.desc": "Hexagon Force",
+      "item.gd.fingerdash": "Fingerdash",
+      "item.gd.x_step.desc": "xStep",
+      "item.gd.deadlocked.desc": "Deadlocked",
+      "item.gd.electroman_adventures.desc": "Electroman Adventures",
+      "advancements.must_have_the_precious.descr": "Collect 30 Secret Coins",
+      "advancements.polarbear.descr": "Complete Polargeist in Practice Mode !",
+      "item.gd.blast_processing.desc": "Blast Processing",
+      "subtitles.polargeist": "Polargeist",
+      "advancements.i_need_more.descr": "Collect 15 Secret Coins.",
+      "subtitles.jumper": "Jumper",
+      "itemGroup.tabgd_difficulties": "Geometry Dash Difficulties",
+      "item.gd.deadlocked": "Deadlocked",
+      "item.gd.dry_practice_mode": "Dry Out Practice Mode",
+      "advancements.stereo_bump.title": "Stereo Bump",
+      "advancements.must_have_the_precious.title": "Must have the precious",
+      "advancements.where_do_i_even_put_this.descr": "Collect 110 Secret Coins",
+      "item.gd.menu_loop": "Menu Loop",
+      "advancements.nothing_is_secret.descr": "Collect 70 Secret Coins",
+      "subtitles.geometricaldominator": "Geometrical Dominator",
+      "item.gd.secret_coin": "Secret Coin",
+      "item.gd.base_normal_mode": "Base After Base Normal Mode",
+      "subtitles.xstep": "xStep",
+      "item.gd.base_after_base.desc": "Base After Base",
+      "advancements.polargeist_1.title": "Polargeist!",
+      "item.gd.polargeist_normal_item": "Polargeist Normal Mode",
+      "advancements.i_need_more.title": "I ... Need ... MORE !",
+      "item.gd.theory_of_everything_2": "Theory Of Everything 2",
+      "subtitles.clutterfunk": "Clutterfunk",
+      "advancements.we_wants_it.title": "We wants it!",
+      "advancements.where_is_it_where_is_it.descr": "Collect 40 Secret Coins",
+      "item.gd.clutterfunk": "Clutterfunk",
+      "item.gd.why_achivement_coins_are_buggy": "Why Achivements Coins Are Buggy ?",
+      "item.gd.geometrical_dominator": "Geometrical Dominator",
+      "subtitles.electrodynamix": "Electrodynamix",
+      "itemGroup.tabgd_ultimate_demon_levels": "Geometry Dash Ultimate Demon Levels ",
+      "item.gd.clubstep": "Clubstep",
+      "advancements.not_so_secret.descr": "Collect 65 Secret Coins",
+      "advancements.the_kings_vault.title": "The King\u0027s Vault",
+      "advancements.ultimate_toe_2.title": "Ultimate TOE 2",
+      "item.gd.base_after_base": "Base After Base",
+      "advancements.start_gd.title": "Welcome to Geometry Dash !",
+      "subtitles.menuloop": "MenuLoop"
+    },
+    "fr_fr": {
+      "subtitles.theoryofeverything2": "Theory Of Everything 2",
+      "advancements.theres_more.descr": "Collectez 55 Pièces Secrètes",
+      "item.gd.electrodynamix": "Electrodynamix",
+      "advancements.seriously_enough.descr": "Collectez 115 Pièces Secrètes",
+      "advancements.coins.title": "Pièces?!",
+      "item.gd.easy_demon": "Difficulté Demon Facile",
+      "subtitles.clubstep": "Clubstep",
+      "advancements.oh.descr": "Collectez 1 Pièce Secrète.",
+      "advancements.these_are_pretty_heavy.descr": "Collectez 105 Pièces Secrètes",
+      "advancements.robin_hood.title": "Robin des Bois",
+      "item.gd.stereo_pratice_item": "Mode Entrainement Stereo Madness",
+      "advancements.back_on_track_1.descr": "Completez Back On Track en mode Normal !",
+      "item.gd.insane": "Difficulté Insane",
+      "advancements.finders_keepers.descr": "Collectez 75 Pièces Secrètes",
+      "item.gd.theory_of_everything": "Theory Of Everything",
+      "item.gd.harder": "Difficulté Plus Dur",
+      "item.gd.jumper": "Jumper",
+      "subtitles.electromanadventures": "Electroman Adventures",
+      "advancements.leave_some_for_the_rest_of_us.title": "Laisse-en un peu pour nous !",
+      "item.gd.fingerdash.desc": "Fingerdash",
+      "item.gd.polargeist.desc": "Polargeist",
+      "advancements.onmyway.title": "On my way",
+      "item.gd.back_on_track": "Back On Track",
+      "item.gd.time_machine": "Time Machine",
+      "item.gd.normal": "Difficulté Normale",
+      "item.gd.base_practice_mode": "Mode Entrainement Base After Base",
+      "item.gd.back_practice_item": "Mode Entrainement Back On Track",
+      "advancements.the_golden_rule.title": "La Règle d\u0027Or",
+      "item.gd.about": "A propos...",
+      "item.gd.dry_out.desc": "Dry Out",
+      "item.gd.cant_let_go": "Can\u0027t Let Go",
+      "advancements.we_wants_it.descr": "Collectez 20 Pièces Secrètes.",
+      "advancements.found_it_under_a_rock.descr": "Collectez 60 Pièces Secrètes",
+      "advancements.insatiable_greed.descr": "Collectez 130 Pièces Secrètes",
+      "item.gd.stereo_normal_item": "Mode Normal Stereo Madness",
+      "subtitles.gd_logo": "Juste le logo de Geometry Dash !",
+      "item.gd.gd_logo": "Logo Geometry Dash",
+      "advancements.polargeist_1.descr": "Completez Polargeist en Mode Normal !",
+      "item.gd.theory_of_everything.desc": "Theory Of Everything",
+      "advancements.the_finder.descr": "Collectez 90 Pièces Secrètes",
+      "itemGroup.tabgd_items": "Objets Geometry Dash",
+      "item.gd.jumper.desc": "Jumper",
+      "advancements.where_do_i_even_put_this.title": "Où pourrais-je mettre ça ?",
+      "advancements.ultimate_deadlocked.descr": "Collectez les 3 pièces sur Deadlocked",
+      "item.gd.hard_demon": "Difficulté Dur Démon",
+      "advancements.ultimate_toe_2.descr": "Collectez les 3 pièces sur Theory Of Everything 2",
+      "item.gd.menu_loop.desc": "menuLoop",
+      "item.gd.cant_let_go.desc": "Can\u0027t Let Go",
+      "advancements.they_stole_it_from_us.descr": "Collectez 35 Pièces Secrètes",
+      "advancements.the_kings_vault.descr": "Collectez 100 Pièces Secrètes",
+      "advancements.stereo_madness_1.descr": "Complétez Stereo Madness en Mode Normal !",
+      "item.gd.back_on_track.desc": "Back On Track",
+      "subtitles.backontrack": "Back On Track",
+      "subtitles.stereomadness": "Stereo Madness",
+      "itemGroup.tabgd_trophies": "Trophés Geometry Dash",
+      "advancements.thief_thief_thief.descr": "Collectez 45 Pièces Secrètes",
+      "subtitles.timemachine": "Time Machine",
+      "item.gd.electroman_adventures": "Electroman Adventures",
+      "item.gd.electrodynamix.desc": "Electrodynamix",
+      "advancements.ultimate_clubstep.descr": "Collectez les 3 pièces sur Clubstep",
+      "item.gd.cant_practice_item": "Mode Entrainement Can\u0027t Let Go",
+      "item.gd.back_normal_item": "Mode Normal Back On Track",
+      "item.gd.cant_normal_item": "Objet Normal Can\u0027t Let Go",
+      "item.gd.x_step": "xStep",
+      "advancements.maybebehingthatblock.titlePeut-ê": "Peut-être derrière ce bloc ?",
+      "item.gd.clutterfunk.desc": "Clutterfunk",
+      "advancements.polarbear.title": "Polarbear",
+      "item.gd.polargeist_practice_item": "Mode Entrainement Polargeist",
+      "advancements.ultimate_deadlocked.title": "Ultime Deadlocked",
+      "advancements.oh.title": "Oh ?!",
+      "subtitles.theoryofeverything": "Theory Of Everything",
+      "advancements.found_it_under_a_rock.title": "Trouvé en dessous d\u0027une pierre !",
+      "item.gd.geometrical_dominator.desc": "Geometrical Dominator",
+      "advancements.insatiable_greed.title": "Avidité Insatiable",
+      "subtitles.baseafterbase": "Base After Base",
+      "advancements.the_golden_rule.descr": "Collectez 80 Pièces Secrètes",
+      "item.gd.ulti_of_everything_2": "Ultime Theory Of Everything 2",
+      "advancements.my_precious.title": "Mon Précieux...",
+      "item.gd.clubstep.desc": "Clubstep",
+      "item.gd.cycles.desc": "Cycles",
+      "advancements.we_needs_it.descr": "Collectez 25 Pièces Secrètes",
+      "advancements.tax_collector.title": "Collecteur de Taxes",
+      "subtitles.dryout": "Dry Out",
+      "itemGroup.tabgd_musics": "Musiques Geometry Dash",
+      "advancements.robin_hood.descr": "Collectez 85 Pièces Secrètes",
+      "advancements.theres_more.title": "Il y en a encore ?!",
+      "advancements.coins.descr": "Collectez 5 Pièces Secrètes.",
+      "advancements.back_on_track_1.title": "Back On Track!",
+      "item.gd.ulti_step": "Ultime Clubstep",
+      "advancements.seriously_enough.title": "Sérieusement, assez !",
+      "item.gd.hard": "Difficulté Difficile",
+      "item.gd.dry_out": "Dry Out",
+      "subtitles.hexagonforce": "Hexagon Force",
+      "advancements.these_are_pretty_heavy.title": "Ils sont assez lourds !",
+      "advancements.onmyway.descr": "Complétez Back On Track en Mode Entrainement !",
+      "item.gd.easy": "Difficulté Facile",
+      "item.gd.stereo_madness.desc": "Stereo Madness",
+      "advancements.leave_some_for_the_rest_of_us.descr": "Collectez 120 Pièces Secrètes",
+      "subtitles.cycles": "Cycles",
+      "item.gd.stereo_madness": "Stereo Madness",
+      "advancements.we_needs_it.title": "Nous en avons besoin !",
+      "subtitles.achivement_unlocked": "Succès Dévérouillé !",
+      "item.gd.time_machine.desc": "Time Machine",
+      "advancements.ultimate_clubstep.title": "Ultime Clubstep",
+      "advancements.tax_collector.descr": "Collectez 95 Pièces Secrètes",
+      "subtitles.cantletgo": "Can\u0027t Let Go",
+      "item.gd.blast_processing": "Blast Processing",
+      "subtitles.blastprocessing": "Blast Processing",
+      "advancements.finders_keepers.title": "Gardien Chercheurs !",
+      "advancements.stereo_madness_1.title": "Stereo Madness!",
+      "subtitles.deadlocked": "Deadlocked",
+      "advancements.nothing_is_secret.title": "Rien n\u0027est secret !",
+      "advancements.my_precious.descr": "Collectez 50 Pièces Secrètes",
+      "advancements.start_gd.descr": "Merci d\u0027avoir acheté et jouer à Geometry Dash !",
+      "item.gd.hexagon_force": "Hexagon Force",
+      "advancements.not_so_secret.title": "Pas si secret",
+      "advancements.where_is_it_where_is_it.title": "Où il est ?! Où il est ?!!",
+      "item.gd.theory_of_everything_2.desc": "Theory Of Everything 2",
+      "item.gd.insane_demon": "Difficulté Insane Demon",
+      "subtitles.fingerdash": "Fingerdash",
+      "item.gd.cycles": "Cycles",
+      "item.gd.dry_normal_mode": "Dry Out Normal Mode",
+      "item.gd.ulti_locked": "Ultime Deadlocked",
+      "advancements.they_stole_it_from_us.title": "Ils les ont pris des nôtres !",
+      "itemGroup.tabgd_icon_kit_cubes": "Kit d\u0027Icones Geometry Dash : Cube",
+      "advancements.maybebehingthatblock.descr": "Collectez 15 Pièces Secrètes",
+      "advancements.stereo_bump.descr": "Complétez Stereo Madness en Mode Entrainement !",
+      "item.gd.polargeist": "Polargeist",
+      "advancements.maybebehingthatblock.title": "Peut-être derrière ce bloc ?",
+      "advancements.the_finder.title": "Le Chercheur",
+      "advancements.thief_thief_thief.title": "Voleur, voleur, voleur !",
+      "item.gd.hexagon_force.desc": "Hexagon Force",
+      "item.gd.fingerdash": "Fingerdash",
+      "item.gd.x_step.desc": "xStep",
+      "item.gd.deadlocked.desc": "Deadlocked",
+      "item.gd.electroman_adventures.desc": "Electroman Adventures",
+      "advancements.must_have_the_precious.descr": "Collectez 30 Pièces Secrètes",
+      "advancements.polarbear.descr": "Completez Polargeist en Mode Entrainement !",
+      "item.gd.blast_processing.desc": "Blast Processing",
+      "subtitles.polargeist": "Polargeist",
+      "advancements.i_need_more.descr": "Collectez 15 Pièces Secrètes.",
+      "subtitles.jumper": "Jumper",
+      "itemGroup.tabgd_difficulties": "Difficultés Geometry Dash",
+      "item.gd.deadlocked": "Deadlocked",
+      "item.gd.dry_practice_mode": "Mode Entrainement Dry Out",
+      "advancements.stereo_bump.title": "Stereo Bump",
+      "advancements.must_have_the_precious.title": "Mieux avoir le précieux",
+      "advancements.where_do_i_even_put_this.descr": "Collectez 110 Pièces Secrètes",
+      "item.gd.menu_loop": "Boucle musicale (Menu)",
+      "advancements.nothing_is_secret.descr": "Collectez 70 Pièces Secrètes",
+      "subtitles.geometricaldominator": "Geometrical Dominator",
+      "item.gd.secret_coin": "Pièce Secrète",
+      "item.gd.base_normal_mode": "Base After Base Normal Mode",
+      "subtitles.xstep": "xStep",
+      "item.gd.base_after_base.desc": "Base After Base",
+      "advancements.polargeist_1.title": "Polargeist!",
+      "item.gd.polargeist_normal_item": "Mode Normal Polargeist",
+      "advancements.i_need_more.title": "J\u0027en ... veux ... PLUS !",
+      "item.gd.theory_of_everything_2": "Theory Of Everything 2",
+      "subtitles.clutterfunk": "Clutterfunk",
+      "advancements.we_wants_it.title": "Nous le voulons !",
+      "advancements.where_is_it_where_is_it.descr": "Collectez 40 Pièces Secrètes",
+      "item.gd.clutterfunk": "Clutterfunk",
+      "item.gd.why_achivement_coins_are_buggy": "Pourquoi les succès des pièces sont buggés ?",
+      "item.gd.geometrical_dominator": "Geometrical Dominator",
+      "subtitles.electrodynamix": "Electrodynamix",
+      "itemGroup.tabgd_ultimate_demon_levels": "Les Niveaux Démons Ultimes de Geometry Dash",
+      "item.gd.clubstep": "Clubstep",
+      "advancements.not_so_secret.descr": "Collectez 65 Pièces Secrètes",
+      "advancements.the_kings_vault.title": "Le Caveau du Roi",
+      "advancements.ultimate_toe_2.title": "Ultimate TOE 2",
+      "item.gd.base_after_base": "Base After Base",
+      "advancements.start_gd.title": "Bienvenue dans Geometry Dash !",
+      "subtitles.menuloop": "Boucle musicale du Menu !"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Musics",
+        "children": [
+          {
+            "name": "Geometry Dash",
+            "children": []
+          },
+          {
+            "name": "Meltdown",
+            "children": []
+          },
+          {
+            "name": "World",
+            "children": []
+          },
+          {
+            "name": "SubZero",
+            "children": []
+          },
+          {
+            "name": "Games",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Achievements",
+        "children": [
+          {
+            "name": "StereoMadness",
+            "children": []
+          },
+          {
+            "name": "Games",
+            "children": [
+              {
+                "name": "Start",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "BackOnTrack",
+            "children": []
+          },
+          {
+            "name": "Polargeist",
+            "children": []
+          },
+          {
+            "name": "Coins",
+            "children": []
+          },
+          {
+            "name": "DryOut",
+            "children": []
+          },
+          {
+            "name": "Ultimate Demon Levels",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Items",
+        "children": [
+          {
+            "name": "Trophies",
+            "children": [
+              {
+                "name": "StereoMadness",
+                "children": []
+              },
+              {
+                "name": "BackOnTrack",
+                "children": []
+              },
+              {
+                "name": "Polargeist",
+                "children": []
+              },
+              {
+                "name": "DryOut",
+                "children": []
+              },
+              {
+                "name": "BaseAfterBase",
+                "children": []
+              },
+              {
+                "name": "Cant Let Go",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Difficulty",
+            "children": []
+          },
+          {
+            "name": "Ultimate Demon Levels Item",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Creative Tabs",
+        "children": [
+          {
+            "name": "GDIconKit",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "GUIs",
+        "children": []
+      },
+      {
+        "name": "Commands",
+        "children": [
+          {
+            "name": "Test",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "gd",
+    "modName": "Geometry Dash",
+    "version": "0.0.5",
+    "description": "Have you find all my secret coins ?",
+    "author": "CreeperGreg95",
+    "websiteURL": "https://geometrydashmusics.000webhost.com/GD_Mod/",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "logogd",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "credits": "Geometry Dash is a trademark from RobTop Games.",
+    "modElementsPackage": "com.creepergreg.gd_mc",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200120510
+}

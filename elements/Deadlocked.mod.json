@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disk1",
+    "name": "Deadlocked",
+    "description": "Deadlocked",
+    "creativeTab": {
+      "value": "CUSTOM:GDMusics"
+    },
+    "music": {
+      "value": "CUSTOM:deadlocked"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

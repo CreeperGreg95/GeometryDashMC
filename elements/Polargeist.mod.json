@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disk1",
+    "name": "Polargeist",
+    "description": "Polargeist",
+    "creativeTab": {
+      "value": "CUSTOM:GDMusics"
+    },
+    "music": {
+      "value": "CUSTOM:polargeist"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "_fv": 28,
+  "_type": "tab",
+  "definition": {
+    "name": "Geometry Dash Items",
+    "icon": {
+      "value": "CUSTOM:GDLogo"
+    },
+    "showSearch": true
+  }
+}

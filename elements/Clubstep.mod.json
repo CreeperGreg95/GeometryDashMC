@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disk1",
+    "name": "Clubstep",
+    "description": "Clubstep",
+    "creativeTab": {
+      "value": "CUSTOM:GDMusics"
+    },
+    "music": {
+      "value": "CUSTOM:clubstep"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disk1",
+    "name": "Base After Base",
+    "description": "Base After Base",
+    "creativeTab": {
+      "value": "CUSTOM:GDMusics"
+    },
+    "music": {
+      "value": "CUSTOM:baseafterbase"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

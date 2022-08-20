@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disk1",
+    "name": "Theory Of Everything",
+    "description": "Theory Of Everything",
+    "creativeTab": {
+      "value": "CUSTOM:GDMusics"
+    },
+    "music": {
+      "value": "CUSTOM:theoryofeverything"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

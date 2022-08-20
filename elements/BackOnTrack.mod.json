@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disk1",
+    "name": "Back On Track",
+    "description": "Back On Track",
+    "creativeTab": {
+      "value": "CUSTOM:GDMusics"
+    },
+    "music": {
+      "value": "CUSTOM:backontrack"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

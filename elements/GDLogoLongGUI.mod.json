@@ -1,0 +1,56 @@
+{
+  "_fv": 28,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 310,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "logogdlong.png",
+          "use1Xscale": true,
+          "name": "logogdlong.png",
+          "x": 64,
+          "y": 45
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Play",
+          "width": 46,
+          "height": 20,
+          "name": "Play",
+          "x": 201,
+          "y": 169
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Saving...",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Saving...",
+          "x": 61,
+          "y": 183
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 9,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disk1",
+    "name": "Theory Of Everything 2",
+    "description": "Theory Of Everything 2",
+    "creativeTab": {
+      "value": "CUSTOM:GDMusics"
+    },
+    "music": {
+      "value": "CUSTOM:theoryofeverything2"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

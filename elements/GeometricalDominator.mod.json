@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disk1",
+    "name": "Geometrical Dominator",
+    "description": "Geometrical Dominator",
+    "creativeTab": {
+      "value": "CUSTOM:GDMusics"
+    },
+    "music": {
+      "value": "CUSTOM:geometricaldominator"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

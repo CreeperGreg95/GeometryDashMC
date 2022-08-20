@@ -1,0 +1,113 @@
+{
+  "_fv": 28,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 300,
+    "height": 150,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Pourquoi y a-t-il ce bug ?",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Pourquoi y a-t-il ce bug ?",
+          "x": 147,
+          "y": 52
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Minecraft accpete seulement 64 objets dans un meme slot.",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Minecraft accpete seulement 64 objets dans un meme slot.",
+          "x": 66,
+          "y": 68
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Seulement, les Pièces Secrètes de Geometry Dash vont",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Seulement, les Pièces Secrètes de Geometry Dash vont",
+          "x": 67,
+          "y": 81
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "jusqu'à 130 Pièces. Donc nous sommes obligé de limiter ",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "jusqu'à 130 Pièces. Donc nous sommes obligé de limiter ",
+          "x": 67,
+          "y": 94
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "ceci à 64 pièces si vous voulez récupérer le succès.",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "ceci à 64 pièces si vous voulez récupérer le succès.",
+          "x": 66,
+          "y": 107
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Désolé du dérangement.",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Désolé du dérangement.",
+          "x": 162,
+          "y": 136
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "*Cela ne vous empêche pas d'utiliser le mod correctement.",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "*Cela ne vous empêche pas d'utiliser le mod correctement.",
+          "x": 66,
+          "y": 174
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

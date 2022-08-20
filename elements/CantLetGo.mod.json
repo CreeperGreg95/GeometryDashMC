@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disk1",
+    "name": "Can't Let Go",
+    "description": "Can't Let Go",
+    "creativeTab": {
+      "value": "CUSTOM:GDMusics"
+    },
+    "music": {
+      "value": "CUSTOM:cantletgo"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}
